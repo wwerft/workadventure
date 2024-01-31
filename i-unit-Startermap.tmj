@@ -1289,8 +1289,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":3135,
-         "source":"tilesets\/office 1.tsx"
+         "image":"..\/..\/Workadventure\/tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"office 1",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
