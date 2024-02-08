@@ -1,0 +1,331 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj",
+    "expandedProjectPaths": [
+        ".",
+        "Pipoya RPG Tileset 32x32/SampleMap",
+        "Pipoya RPG Tileset 32x32"
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj": {
+            "scale": 0.9116536458333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 382.27237020638427,
+                "y": 219.38156109405128
+            }
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj": {
+            "scale": 0.38169642857142855,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.561403508772,
+                "y": 1121.309941520468
+            }
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj": {
+            "scale": 0.7057963709677418,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 526.3557809040921,
+                "y": 555.4009855031064
+            }
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/tilesets/office 1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj": {
+            "expandedGroupLayers": [
+                51,
+                55,
+                52,
+                54
+            ],
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 968.1818181818182,
+                "y": 1221.212121212121
+            }
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#WA_Exterior": {
+            "scaleInDock": 0.5
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#WA_Other_Furniture": {
+            "scaleInDock": 0.75
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#WA_Room_Builder": {
+            "scaleInDock": 0.75
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj#office 1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/tilesets/Office 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/tilesets/office 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj": {
+            "expandedGroupLayers": [
+                55,
+                52,
+                54
+            ],
+            "expandedObjectLayers": [
+                2,
+                63
+            ],
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1465,
+                "y": 2344
+            }
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj#WA_Decoration": {
+            "scaleInDock": 1.5
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj": {
+            "expandedGroupLayers": [
+                55,
+                51,
+                52,
+                54
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 282.33333333333337,
+                "y": 134.66666666666663
+            }
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/tilesets/office 1.tsx": {
+            "scaleInDock": 1
+        },
+        "Pipoya.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "iumap.tmx": {
+            "expandedGroupLayers": [
+                2
+            ],
+            "scale": 0.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 698,
+                "y": 468
+            }
+        },
+        "iumap.tmx#Pipoya": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/tilesets",
+    "last.imagePath": "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/tilesets",
+    "map.height": 50,
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj",
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj"
+    ],
+    "project": "i-unit-world.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/map.tmj",
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/workadventure/i-unit-Startermap.tmj",
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/i-unit-Startermap.tmj",
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/map.tmj",
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/conference.tmj",
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/i-unit-world/i-unit-Startermap.tmj",
+        "iumap.tmx",
+        "Pipoya.tsx",
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/tilesets/office 1.tsx",
+        "C:/Users/j.neubert/OneDrive - i-unit group/Dokumente/GitHub/map-starter-kit/tilesets/Office 2.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled-Kachelsatzdateien (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx"
+}
