@@ -1174,14 +1174,14 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/kiosk.demo.p2f.app\/api\/scope\/_client\/asset\/2450\/format\/p2fdocument\/content\/index.html"
+                         "value":"https:\/\/portal.i-unit.group\/api\/scope\/events\/asset\/160994\/format\/source\/stream"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":193.716220904799,
-                 "x":1253.91932539862,
-                 "y":780.026911647132
+                 "x":2587.25265873195,
+                 "y":814.693578313799
                 }, 
                 {
                  "height":128,
@@ -1229,8 +1229,8 @@
                  "type":"area",
                  "visible":true,
                  "width":224,
-                 "x":1600,
-                 "y":864
+                 "x":1922,
+                 "y":1064
                 }, 
                 {
                  "height":224,
@@ -1340,6 +1340,28 @@
                  "width":32,
                  "x":1202.78787878788,
                  "y":1091.27272727273
+                }, 
+                {
+                 "height":145.667,
+                 "id":29,
+                 "name":"URL234",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/kiosk.demo.p2f.app\/api\/scope\/_client\/asset\/2450\/format\/p2fdocument\/content\/index.html"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":193.716,
+                 "x":2915.142,
+                 "y":809.1665
                 }],
          "offsetx":0,
          "offsety":2,
@@ -1582,7 +1604,7 @@
          "y":0
         }],
  "nextlayerid":65,
- "nextobjectid":29,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
