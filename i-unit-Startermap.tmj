@@ -1174,7 +1174,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/kiosk.demo.p2f.app\/api\/scope\/_client\/asset\/2450\/format\/p2fdocument\/content\/index.htm"
+                         "value":"https:\/\/kiosk.demo.p2f.app\/api\/scope\/_client\/asset\/2450\/format\/p2fdocument\/content\/index.html"
                         }],
                  "rotation":0,
                  "type":"area",
