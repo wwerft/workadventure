@@ -6075,7 +6075,7 @@
         {
          "columns":6,
          "firstgid":5124,
-         "image":"..\/i-unit-world\/tilesets\/WA_Special_Zones.png",
+         "image":"..\/tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
